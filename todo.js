@@ -8,6 +8,7 @@ const filter = document.querySelector("#filter");
 const clearButton = document.querySelector("#clear-todos");
 
 
+
 eventListeners();
 // getTodoToStorage();  BENİM YAPTIĞIM ÇALIŞIYOR İTEM EKLEME
 
